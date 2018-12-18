@@ -1,14 +1,14 @@
 # stringCalculator
 Small client-side application showing test-driven development and use of Regular Expressions
 
-##How to use
+## How to use
 
 * Download .JAVA file
 * Start a project in IDE
 * Add downloaded file as SRC
 * Run, appears in console
 
-##Description
+## Description
 
 The Java application was developed by following tests for features. The application currently calculates the sum given a string of delimiters and numbers in the following format:
 
