@@ -104,7 +104,7 @@ public class stringCalc{
         test = Add("//$\n1$2$3"); //regular
         test = Add("//@\n2@3@8"); //regular
         test = Add("//$\n1$-2$-3"); //negative
-        test = Add("/mklk"); //negative
+        test = Add("/mklk"); //invalid
         test = Add(""); //empty
         //bonus test cases
         test = Add("//@,*\n2@3*8"); //multiple delimiter test case
